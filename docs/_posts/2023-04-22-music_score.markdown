@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Music Score Collection"
+date:   2023-04-22 10:04:22 +0800
+categories: Music
+---
+
+这是一本[乐谱集][ms]，收录的是一些我收集的曲谱(五线谱)，另外附录中还有一些简单的乐理知识。目前附录A.1包括各大调和自然小调所包含的主音、各音级的音名及对应的升降号；附录A.2包括常用的意大利语音乐词汇表及其对应的中英文翻译。点击查看当前包括的[乐谱目录][mcontent]。这本乐谱将不定期更新...
+
+[点击下载][dl]这本乐谱。
+
+
+[ms]:   https://github.com/shuhenglee/score_set
+[mcontent]: https://github.com/shuhenglee/score_set/blob/main/README.md
+[dl]:   https://raw.githubusercontent.com/shuhenglee/score_set/main/score_set.pdf

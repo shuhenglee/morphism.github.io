@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "My Papers"
+date:   2023-04-22 10:24:12 +0800
+categories: Paper
+---
+
+- [A Boolean Algebra over a Theory][bat]  
+- [A Sheaf on a Lattice][sol]  
+- [Some Facts about Relations and Operations of Algebras][fro]    
+- [Hom-Sets Category][hsc]    
+
+[bat]:  https://www.vixra.org/abs/2303.0082
+[sol]:  https://www.vixra.org/abs/2208.0158
+[fro]:  https://www.vixra.org/abs/2206.0105
+[hsc]:  https://www.vixra.org/abs/2205.0134
