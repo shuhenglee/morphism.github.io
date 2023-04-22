@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Music Score Collection"
 date:   2023-04-22 10:04:22 +0800
 categories: Music

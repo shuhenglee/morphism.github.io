@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "My Papers"
 date:   2023-04-22 10:24:12 +0800
 categories: Paper
