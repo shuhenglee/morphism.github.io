@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "李小丹"
   avatar           : /assets/images/photo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A man."
+  bio              : ""
   location         : # "China"
   email            :
   links:

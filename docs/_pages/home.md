@@ -5,7 +5,7 @@ title:  "Hello!"
 author_profile: true
 ---
 
-:nerd_face:
+:smile:
 
 ## 乐谱集(Music Score Collection)
 
