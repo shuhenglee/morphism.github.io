@@ -4,6 +4,8 @@
 ## cf. -----------------
 ## https://docs.github.com/zh/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 ## http://jekyllrb.com
+## https://markdown.com.cn/
+#https://www.w3cschool.cn/lme/ckdj1sng.html
 ## https://mademistakes.com/work/jekyll-themes/minimal-mistakes/#
 ## https://mmistakes.github.io/minimal-mistakes/
 ## https://github.com/mmistakes/minimal-mistakes

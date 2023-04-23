@@ -1,9 +1,11 @@
 ---
 layout: single
 permalink: /
-title:  "Hello! :slightly_smiling_face:"
+title:  "Hello!"
 author_profile: true
 ---
+
+:nerd_face:
 
 ## 乐谱集(Music Score Collection)
 
@@ -19,6 +21,8 @@ author_profile: true
 - [Some Facts about Relations and Operations of Algebras][fro]    
 - [Hom-Sets Category][hsc]    
 
+## Alpha :dog2:
+![Alpha](/assets/images/alpha.jpeg "Alpha")
 
 [ms]:   https://github.com/shuhenglee/score_set
 [mcontent]: https://github.com/shuhenglee/score_set/blob/main/README.md
