@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "apua" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -238,6 +238,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-data
   - jekyll-redirect-from
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -246,7 +247,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jemoji
 
 
 # Archives

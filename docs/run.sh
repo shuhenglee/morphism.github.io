@@ -8,6 +8,10 @@
 ## https://mmistakes.github.io/minimal-mistakes/
 ## https://github.com/mmistakes/minimal-mistakes
 ## https://github.com/academicpages/academicpages.github.io
+## https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/
+## https://www.fabriziomusacchio.com/teaching/Markdown_Guide/
+## https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
 ### example --------------------
 ## https://emilyriehl.github.io
 

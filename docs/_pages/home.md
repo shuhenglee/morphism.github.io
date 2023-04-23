@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title:  "Welcome!"
+title:  "Hello! :slightly_smiling_face:"
 author_profile: true
 ---
 
