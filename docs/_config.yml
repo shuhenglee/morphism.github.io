@@ -12,14 +12,14 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "default" # "air", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "apua" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CN"
-title                    : "Shao-Dan Lee (李小丹)的主页"
+locale                   : "en-US"
+title                    : "李小丹 (Shao-Dan Lee)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Shao-Dan Lee (李小丹)"
+name                     : "李小丹"
 description              : "A website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shao-Dan Lee (李小丹)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "李小丹"
+  avatar           : /assets/images/photo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A man."
   location         : # "China"
   email            :
   links:
-#   - label: "Email"
-#     icon: "fas fa-fw fa-envelope-square"
-#     # url: "mailto:your.name@email.com"
+   - label: "Email"
+     icon: "fas fa-fw fa-envelope-square"
+     url: "mailto: leeshuheng@icloud.com"
 #   - label: "Website"
 #     icon: "fas fa-fw fa-link"
 #     # url: "https://your-website.com"
