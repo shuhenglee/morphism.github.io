@@ -38,6 +38,8 @@
 ### modify _sass/.../_sidebar.scss -----------
 # about avatar
 # ---------------------------
+### modify .gitignore
+## remove "vendor"
 # bundle install
 # git add .
 # git commit -am'+'
