@@ -27,7 +27,7 @@ author_profile: true
 ![Alpha](/assets/images/alpha.jpeg "Alpha")
 
 [ms]:   https://github.com/shuhenglee/score_set
-[midi]:   https://github.com/shuhenglee/score_set/midi
+[midi]:   https://github.com/shuhenglee/score_set/tree/main/midi
 [mcontent]: https://github.com/shuhenglee/score_set/blob/main/README.md
 [dl]:   https://raw.githubusercontent.com/shuhenglee/score_set/main/score_set.pdf
 [bat]:  https://www.vixra.org/abs/2303.0082
