@@ -2,6 +2,11 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
 *.swp
 .DS_Store
+*.gem
+.bundle
+Gemfile.lock
+**/vendor/bundle
+package-lock.json
+codekit-config.json
