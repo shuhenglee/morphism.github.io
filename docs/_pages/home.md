@@ -21,6 +21,7 @@ author_profile: true
 
 ## My Papers
 
+- [A Category is a Partial Algebra][cipa]
 - [A Boolean Algebra over a Theory][bat]  
 - [A Sheaf on a Lattice][sol]  
 - [Some Facts about Relations and Operations of Algebras][fro]    
@@ -30,10 +31,12 @@ author_profile: true
 ![Alpha](/assets/images/alpha.jpeg "Alpha")
 
 [ms]:   https://github.com/shuhenglee/score_set
-[midi]:   https://github.com/shuhenglee/score_set/tree/main/midi
+[midi]: https://github.com/shuhenglee/score_set/tree/main/midi
 [dl]:   https://raw.githubusercontent.com/shuhenglee/score_set/main/score_set.pdf
 [dla]:  https://codeload.github.com/shuhenglee/score_set/zip/refs/heads/main
+
 [bat]:  https://www.vixra.org/abs/2303.0082
 [sol]:  https://www.vixra.org/abs/2208.0158
 [fro]:  https://www.vixra.org/abs/2206.0105
 [hsc]:  https://www.vixra.org/abs/2205.0134
+[cipa]: https://vixra.org/abs/2305.0069
