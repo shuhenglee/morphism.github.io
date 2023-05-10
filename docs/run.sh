@@ -48,4 +48,6 @@
 # bundle update
 # bundle info --path minimal-mistakes-jekyll
 
-bundle exec jekyll serve
+# bundle exec jekyll serve
+# jekyll serve --watch --livereload
+bundle exec jekyll serve --watch --livereload
