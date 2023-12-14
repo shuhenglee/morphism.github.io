@@ -21,9 +21,13 @@ author_profile: true
 
 ## My Papers
 
+### 2023
+- [A 2-Pitch Structure][nps]
 - [An Algebraic Structure of Music Theory][asmt]
 - [A Category is a Partial Algebra][cipa]
 - [A Boolean Algebra over a Theory][bat]  
+
+### 2022
 - [A Sheaf on a Lattice][sol]  
 - [Some Facts about Relations and Operations of Algebras][fro]    
 - [Hom-Sets Category][hsc]    
@@ -36,6 +40,7 @@ author_profile: true
 [dl]:   https://raw.githubusercontent.com/shuhenglee/score_set/main/score_set.pdf
 [dla]:  https://codeload.github.com/shuhenglee/score_set/zip/refs/heads/main
 
+[nps]:  https://www.vixra.org/abs/2312.0030
 [asmt]: https://www.vixra.org/abs/2308.0102
 [bat]:  https://www.vixra.org/abs/2303.0082
 [sol]:  https://www.vixra.org/abs/2208.0158
