@@ -34,7 +34,9 @@ author_profile: true
 - [Some Facts about Relations and Operations of Algebras][fro]    
 - [Hom-Sets Category][hsc]    
 
-## 乐谱集(Music Score Collection)
+## My Books
+
+### 乐谱集(Music Score Collection)
 
 这本[乐谱集][ms]收录的是一些我收集到的曲谱(五线谱)，另外附录中还有一些简单的乐理知识。
 目前附录A.1包括各大调和自然小调所包含的主音、各音级的音名及对应的升降号；
