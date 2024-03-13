@@ -23,6 +23,9 @@ author_profile: true
 
 ## My Papers
 
+### 2024
+- [Ideals of the Algebra][iota]
+
 ### 2023
 - [A 2-Pitch Structure][nps]
 - [An Algebraic Structure of Music Theory][asmt]
@@ -56,6 +59,7 @@ author_profile: true
 [dl]:   https://raw.githubusercontent.com/shuhenglee/score_set/main/score_set.pdf
 [dla]:  https://codeload.github.com/shuhenglee/score_set/zip/refs/heads/main
 
+[iota]: https://vixra.org/abs/2403.0051
 [nps]:  https://www.vixra.org/abs/2312.0030
 [asmt]: https://www.vixra.org/abs/2308.0102
 [bat]:  https://www.vixra.org/abs/2303.0082
