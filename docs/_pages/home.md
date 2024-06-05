@@ -24,6 +24,7 @@ author_profile: true
 ## My Papers
 
 ### 2024
+- [Ideals of the Algebra II: Prime Ideal][iotaii]
 - [Ideals of the Algebra][iota]
 
 ### 2023
@@ -59,6 +60,7 @@ author_profile: true
 [dl]:   https://raw.githubusercontent.com/shuhenglee/score_set/main/score_set.pdf
 [dla]:  https://codeload.github.com/shuhenglee/score_set/zip/refs/heads/main
 
+[iotaii]: https://vixra.org/abs/2406.0017
 [iota]: https://vixra.org/abs/2403.0051
 [nps]:  https://www.vixra.org/abs/2312.0030
 [asmt]: https://www.vixra.org/abs/2308.0102
