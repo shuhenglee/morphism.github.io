@@ -51,6 +51,7 @@ author_profile: true
 
 - 仅下载乐谱: [点击score_set.pdf][dl]
 - 下载乐谱和MIDI文件: [点击score_set-main.zip][dla]
+- LaTeX源码下载: [点击下载][tex]
 
 ## Alpha :dog2:
 ![Alpha](/assets/images/alpha.jpeg "Alpha")
@@ -59,6 +60,7 @@ author_profile: true
 [midi]: https://github.com/shuhenglee/score_set/tree/main/midi
 [dl]:   https://raw.githubusercontent.com/shuhenglee/score_set/main/score_set.pdf
 [dla]:  https://codeload.github.com/shuhenglee/score_set/zip/refs/heads/main
+[tex]:  https://github.com/shuhenglee/tex_score_set
 
 [iotaii]: https://vixra.org/abs/2406.0017
 [iota]: https://vixra.org/abs/2403.0051
