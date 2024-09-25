@@ -24,6 +24,7 @@ author_profile: true
 ## My Papers
 
 ### 2024
+- [Two Types of Universal Arrows][ttua]
 - [Ideals of the Algebra II: Prime Ideal][iotaii]
 - [Ideals of the Algebra][iota]
 
@@ -71,3 +72,4 @@ author_profile: true
 [fro]:  https://www.vixra.org/abs/2206.0105
 [hsc]:  https://www.vixra.org/abs/2205.0134
 [cipa]: https://vixra.org/abs/2305.0069
+[ttua]: https://vixra.org/abs/2409.0122
